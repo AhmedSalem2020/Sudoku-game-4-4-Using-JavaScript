@@ -1,0 +1,57 @@
+﻿
+div {
+    
+   
+}
+img {
+    width: 100px;
+    height:100px;
+}
+body {
+    /*background-color:aqua;*/
+     background-repeat: no-repeat;
+    background-image: url('../images/BG/5435435353.PNG');
+    background-size: cover
+}
+input {
+    width: 200px;
+    height: 30px;
+    margin: 10px auto;
+    background-color: lavender;
+    color: black;
+    border: none;
+}
+
+    input:hover {
+        background-color: maroon;
+        color: white;
+    }
+td{
+    width:120px;
+    height:120px;
+    border :3px solid;
+}
+tr{
+    width:500px;
+}
+
+.right {
+    float: right;
+    width: 80%;
+    margin: 10px auto;
+}
+.left{
+    float:left;
+    width:20%;
+    text-align:center;
+    margin:10px auto;
+}
+.left td {
+    background-color:aliceblue;
+}
+.d {
+    height :30px;
+}
+label,span{
+    font:bold 55px arial;
+}
